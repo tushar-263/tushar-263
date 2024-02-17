@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 <br>
 
+
+   
 **About Me**        
 - 🌱 I am a Software Developer and a tech enthusiast.
 - 👷 B.Tech (3rd year) at Dr. D. Y. Patil Institute of Technology, Pune
