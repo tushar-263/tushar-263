@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)]([](https://github.com/nisha-laur))
 <h1 align="center">Hi 👋, I'm Tushar Mahajan</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 <br>
 
 
