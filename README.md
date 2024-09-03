@@ -1,12 +1,12 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)]([](https://github.com/nisha-laur))
 <h1 align="center">Hi 👋, I'm Tushar Mahajan</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Tech Enthusiast</h3>
 <br>
 
 
    
 **About Me**        
-- 🌱 I am a Software Developer and a tech enthusiast.
+- 🌱 I am a Software Developer, Python Developer, ML Engineer and a tech enthusiast.
 - 👷 Final year Engineering student at Dr. D. Y. Patil Institute of Technology, Pune
 - 🚀 Passionate, hard-working, quick learner.
 - 😀 Always open to learn and grow.
@@ -15,7 +15,7 @@
 - 📫 How to reach me **2610tusharmahajan@gmail.com**
 
 
-- 📄 Know about my experiences:    I expertise in designing and developing websites . I have made about more than 5 websites using HTML, CSS, JS , Bootstrap, PHP, MySQL.
+- 📄 Know about my experiences:    I expertise in designing and developing machine learning models & websites and  .
 
 
 
