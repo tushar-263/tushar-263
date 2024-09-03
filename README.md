@@ -7,7 +7,7 @@
    
 **About Me**        
 - 🌱 I am a Software Developer and a tech enthusiast.
-- 👷 3rd year Engineering student at Dr. D. Y. Patil Institute of Technology, Pune
+- 👷 Final year Engineering student at Dr. D. Y. Patil Institute of Technology, Pune
 - 🚀 Passionate, hard-working, quick learner.
 - 😀 Always open to learn and grow.
 
